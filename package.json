@@ -1,7 +1,7 @@
 {
   "name": "monokai-light",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A port of the textmate monokai-light theme for atom.",
   "repository": "https://github.com/rjfranco/atom-monokai-light",
   "license": "MIT",
